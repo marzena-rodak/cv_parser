@@ -1,0 +1,27 @@
+{"label":"HEADER","pattern":[{"LOWER":"about"}]}
+{"label":"HEADER","pattern":[{"LOWER":"about"}, {"IS_SPACE": "true"}, {"LOWER":"me"}]}
+{"label":"HEADER","pattern":[{"LOWER":"accomplishments"}]}
+{"label":"HEADER","pattern":[{"LOWER":"achievments"}]}
+{"label":"HEADER","pattern":[{"LOWER":"certificates"}]}
+{"label":"HEADER","pattern":[{"LOWER":"contact"}]}
+{"label":"HEADER","pattern":[{"LOWER":"courses"}]}
+{"label":"HEADER","pattern":[{"LOWER":"details"}]}
+{"label":"HEADER","pattern":[{"LOWER":"education"}]}
+{"label":"HEADER","pattern":[{"LOWER":"employment"}]}
+{"label":"HEADER","pattern":[{"LOWER":"employment"},{"IS_SPACE": "true"},{"LOWER":"history"}]}
+{"label":"HEADER","pattern":[{"LOWER":"experience"}]}
+{"label":"HEADER","pattern":[{"LOWER":"expertise"}]}
+{"label":"HEADER","pattern":[{"LOWER":"hobbies"}]}
+{"label":"HEADER","pattern":[{"LOWER":"interests"}]}
+{"label":"HEADER","pattern":[{"LOWER":"key"},{"IS_SPACE": "true"},{"LOWER":"skills"}]}
+{"label":"HEADER","pattern":[{"LOWER":"languages"}]}
+{"label":"HEADER","pattern":[{"LOWER":"links"}]}
+{"label":"HEADER","pattern":[{"LOWER":"objective"}]}
+{"label":"HEADER","pattern":[{"LOWER":"personal"},{"IS_SPACE": "true"},{"LOWER":"info"}]}
+{"label":"HEADER","pattern":[{"LOWER":"profile"}]}
+{"label":"HEADER","pattern":[{"LOWER":"reference"}]}
+{"label":"HEADER","pattern":[{"LOWER":"skills"}]}
+{"label":"HEADER","pattern":[{"LOWER":"summary"}]}
+{"label":"HEADER","pattern":[{"LOWER":"qualifiactions"}]}
+{"label":"HEADER","pattern":[{"LOWER":"work"},{"IS_SPACE": "true"},{"LOWER":"experience"}]}
+{"label":"HEADER","pattern":[{"LOWER":"work"},{"IS_SPACE": "true"},{"LOWER":"history"}]}
